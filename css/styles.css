@@ -29,6 +29,7 @@ body {
 .nav-item {
   padding-right: 18px;
   padding-left: 18px;
+text-align: left;
 }
 .nav-link {
   font-size: 1.2rem;
